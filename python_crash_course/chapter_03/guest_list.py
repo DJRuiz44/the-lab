@@ -17,6 +17,8 @@ guests.insert(0, "Dom Mazetti")
 guests.insert(2, "Frenzi") 
 guests.insert(len(guests)-1, "Thrall") 
 
+print(f'WOW we have {len(guests)} guests coming to dinner')
+
 print("New guests list")
 print(guests)
 
